@@ -1,0 +1,6 @@
+npm install create-react-app@2.1.8
+
+
+
+# 현재 디렉토리에 설치 한다
+create-react-app .
